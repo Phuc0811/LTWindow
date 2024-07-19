@@ -1,0 +1,14 @@
+C:\Users\samur\HuynhLeHoangPhuc_buoi2\bin\Debug\net8.0\HuynhLeHoangPhuc_buoi2.exe
+C:\Users\samur\HuynhLeHoangPhuc_buoi2\bin\Debug\net8.0\HuynhLeHoangPhuc_buoi2.deps.json
+C:\Users\samur\HuynhLeHoangPhuc_buoi2\bin\Debug\net8.0\HuynhLeHoangPhuc_buoi2.runtimeconfig.json
+C:\Users\samur\HuynhLeHoangPhuc_buoi2\bin\Debug\net8.0\HuynhLeHoangPhuc_buoi2.dll
+C:\Users\samur\HuynhLeHoangPhuc_buoi2\bin\Debug\net8.0\HuynhLeHoangPhuc_buoi2.pdb
+C:\Users\samur\HuynhLeHoangPhuc_buoi2\obj\Debug\net8.0\HuynhLeHoangPhuc_buoi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samur\HuynhLeHoangPhuc_buoi2\obj\Debug\net8.0\HuynhLeHoangPhuc_buoi2.AssemblyInfoInputs.cache
+C:\Users\samur\HuynhLeHoangPhuc_buoi2\obj\Debug\net8.0\HuynhLeHoangPhuc_buoi2.AssemblyInfo.cs
+C:\Users\samur\HuynhLeHoangPhuc_buoi2\obj\Debug\net8.0\HuynhLeHoangPhuc_buoi2.csproj.CoreCompileInputs.cache
+C:\Users\samur\HuynhLeHoangPhuc_buoi2\obj\Debug\net8.0\HuynhLeHoangPhuc_buoi2.dll
+C:\Users\samur\HuynhLeHoangPhuc_buoi2\obj\Debug\net8.0\refint\HuynhLeHoangPhuc_buoi2.dll
+C:\Users\samur\HuynhLeHoangPhuc_buoi2\obj\Debug\net8.0\HuynhLeHoangPhuc_buoi2.pdb
+C:\Users\samur\HuynhLeHoangPhuc_buoi2\obj\Debug\net8.0\HuynhLeHoangPhuc_buoi2.genruntimeconfig.cache
+C:\Users\samur\HuynhLeHoangPhuc_buoi2\obj\Debug\net8.0\ref\HuynhLeHoangPhuc_buoi2.dll
