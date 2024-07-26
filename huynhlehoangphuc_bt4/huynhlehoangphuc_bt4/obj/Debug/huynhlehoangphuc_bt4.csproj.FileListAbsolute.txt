@@ -1,0 +1,11 @@
+C:\Users\samur\source\repos\huynhlehoangphuc_bt4\huynhlehoangphuc_bt4\bin\Debug\huynhlehoangphuc_bt4.exe.config
+C:\Users\samur\source\repos\huynhlehoangphuc_bt4\huynhlehoangphuc_bt4\bin\Debug\huynhlehoangphuc_bt4.exe
+C:\Users\samur\source\repos\huynhlehoangphuc_bt4\huynhlehoangphuc_bt4\bin\Debug\huynhlehoangphuc_bt4.pdb
+C:\Users\samur\source\repos\huynhlehoangphuc_bt4\huynhlehoangphuc_bt4\obj\Debug\huynhlehoangphuc_bt4.csproj.AssemblyReference.cache
+C:\Users\samur\source\repos\huynhlehoangphuc_bt4\huynhlehoangphuc_bt4\obj\Debug\huynhlehoangphuc_bt4.Form1.resources
+C:\Users\samur\source\repos\huynhlehoangphuc_bt4\huynhlehoangphuc_bt4\obj\Debug\huynhlehoangphuc_bt4.Properties.Resources.resources
+C:\Users\samur\source\repos\huynhlehoangphuc_bt4\huynhlehoangphuc_bt4\obj\Debug\huynhlehoangphuc_bt4.csproj.GenerateResource.cache
+C:\Users\samur\source\repos\huynhlehoangphuc_bt4\huynhlehoangphuc_bt4\obj\Debug\huynhlehoangphuc_bt4.csproj.CoreCompileInputs.cache
+C:\Users\samur\source\repos\huynhlehoangphuc_bt4\huynhlehoangphuc_bt4\obj\Debug\huynhlehoangphuc_bt4.exe
+C:\Users\samur\source\repos\huynhlehoangphuc_bt4\huynhlehoangphuc_bt4\obj\Debug\huynhlehoangphuc_bt4.pdb
+C:\Users\samur\source\repos\huynhlehoangphuc_bt4\huynhlehoangphuc_bt4\obj\Debug\huynhlehoangphuc_bt4.NhanVien.resources
